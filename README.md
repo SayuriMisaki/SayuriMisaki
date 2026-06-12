@@ -59,3 +59,7 @@
   </font>
 </div>
 <br>
+
+| Linguagens e Web | Ferramentas |
+| :--- | :--- |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_CODE-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)![Reddit](https://img.shields.io/badge/REDDIT-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)![Spotify](https://img.shields.io/badge/SPOTIFY-%231ED760.svg?style=for-the-badge&logo=spotify&logoColor=black)
