@@ -15,7 +15,7 @@
   </font>
 </div>
 <br>
-### ⚙️ GitHub Analytics
+⚙️ GitHub Analytics
 
 <table>
   <tr>
