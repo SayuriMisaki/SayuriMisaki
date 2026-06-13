@@ -1,4 +1,4 @@
-img width="1194" height="196" alt="image" src="https://github.com/user-attachments/assets/c5fd097c-9a63-48ce-876c-2a313aa73654" />
+<img width="1194" height="196" alt="image" src="https://github.com/user-attachments/assets/c5fd097c-9a63-48ce-876c-2a313aa73654" />
 <div align="center" style="line-height: 1.2;">
   <font face="Courier New" size="4">
     <code>🌐 PATH: ??? </code><br>
