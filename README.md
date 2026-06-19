@@ -4,9 +4,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sayurimisaki/sayurimisaki/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=+Ferramentas;" alt="Typing SVG" />
-</a> <p align="center">
+<h3 align="left">Ferramentas</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
@@ -38,9 +36,9 @@
   <img width="12" />
 </div>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&pause=1000&color=9F7AEA&center=true&vCenter=true&width=500&height=100&lines=+Midia+social;" alt="Typing SVG" />
-</a> <p align="center">
+<h3 align="left">Social midia</h3>
+
+###
   
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
